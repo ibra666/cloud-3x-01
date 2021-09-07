@@ -1,9 +1,9 @@
-# Pemrograman Berbasis Framework
+# Komputasi Awan
 
 |  |  |
 |--|--|
 | Dosen Pengampu | [Habibie Ed Dien, S.Kom., M.T.](https://github.com/hbb-polinema) |
-| Tahun Ajaran | Genap 2020/2021 |
+| Tahun Ajaran | Genap 2021/2022 |
 | Email | habibie@polinema.ac.id |
 | Institusi | jti.polinema.ac.id |
 
@@ -14,7 +14,7 @@
 |--|--|
 | NIM | **contoh 123** |
 | Nama Lengkap | **contoh nama abc** |
-| Kelas | TI-3C/3D |
+| Kelas | TI-3x |
 
 
 ## Struktur Folder
